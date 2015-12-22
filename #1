@@ -23,3 +23,5 @@ cout<<"ENTER NUMBER TO CHECK IT IS PRIME OR NOT ";
          }
        //getch();
        }
+
+//7
